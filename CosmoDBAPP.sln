@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmoDBAPP", "CosmoDBAPP\CosmoDBAPP.csproj", "{15A097FF-CD73-4593-9745-5DB96EA9B7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A097FF-CD73-4593-9745-5DB96EA9B7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A097FF-CD73-4593-9745-5DB96EA9B7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A097FF-CD73-4593-9745-5DB96EA9B7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A097FF-CD73-4593-9745-5DB96EA9B7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
